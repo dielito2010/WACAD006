@@ -3,4 +3,8 @@ Trabalho Prático - Parte l
 
 ```
 cd pratica01
+
+cd..
+
+cd pratica02
 ```
